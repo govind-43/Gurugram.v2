@@ -1,0 +1,6 @@
+{
+  "name": "GurugramProperty.in – Premium Real Estate Marketplace",
+  "description": "Discover verified luxury residences, apartments, independent floors, and commercial spaces across Gurugram, Golf Course Road, Dwarka Expressway, and Delhi NCR.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
